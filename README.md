@@ -14,4 +14,4 @@ MCP servers.
 **Currently learning:** Headless WordPress (REST API / WPGraphQL + Astro)
 
 Open to relocation and remote roles.
-[Portfolio](https://portfolio-lake-eight-jllbdy9lgz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/indranil-mondal-dev/) · [Email](mailto:indranilmondal01@gmail.com)
+[Portfolio](https://indranil-mondal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/indranil-mondal-dev/) · [Email](mailto:indranilmondal01@gmail.com)
