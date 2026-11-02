@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Indranil
 
-<!--
-**Indranil-Mondal/Indranil-Mondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior WordPress Developer at **Certinal** (a Zycus company), based in Bengaluru. I have been
+building for the web since 2020: 620+ production sites across WordPress, Webflow, Shopify and more,
+with custom plugins and themes, WooCommerce, payment and CRM integrations, performance and
+accessibility work.
 
-Here are some ideas to get you started:
+I also engineer AI-augmented delivery. I led the migration of certinal.com from WordPress to a
+1,640-page Astro site built with Claude Code, and I build Claude Code plugins, Agent Skills and
+MCP servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** PHP · JavaScript · TypeScript · Astro · React · WordPress (Elementor Pro, ACF Pro, WooCommerce) · MySQL · Node.js · Python
+**AI:** Claude Code · Model Context Protocol (MCP) · Agent Skills · local QLoRA fine-tuning with mlx-lm (R&D)
+**Currently learning:** Headless WordPress (REST API / WPGraphQL + Astro)
+
+Open to relocation and remote roles.
+[Portfolio](https://portfolio-lake-eight-jllbdy9lgz.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/indranil-mondal-dev/) · [Email](mailto:indranilmondal01@gmail.com)
